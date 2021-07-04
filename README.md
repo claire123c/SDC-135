@@ -4,7 +4,7 @@ Project Catwalk - FrontEnd
 
 ## Description
 
-This project was forked to link and test with Project Catwalk - Backend
+This project was forked to link and test with Project Catwalk - Backend. 
 This project is a front end redesign of an online clothing retailer's website. 
 
 <!-- TABLE OF CONTENTS -->
